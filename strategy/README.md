@@ -1,4 +1,4 @@
-# Strategy
+# Strategy - Uma calculadoura de impostos
 
 - Para evitar que a cada imposto seja criado um novo `if` onde o cálculo é realizado dentro da classe `CalculateTax` foi feito o seguinte:
 - Foi criado uma interface `Tax` que contém o contrato que cada classe de imposto deve implementar.
